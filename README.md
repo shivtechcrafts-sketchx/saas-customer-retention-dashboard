@@ -22,11 +22,6 @@ The dashboard helps businesses understand customer behavior, identify churn risk
 * Understand **customer demographics**
 * Visualize **geographic customer distribution**
 
----
-
-## 🖥 Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
